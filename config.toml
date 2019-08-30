@@ -75,7 +75,7 @@ disqusShortname = "your_disqus_shortname"
 
     # Sidebar RSS link: will only show up if there is a RSS feed
     # associated with the current page
-    rss = true
+    rss = false
 
 [blackfriday]
     angledQuotes = true
