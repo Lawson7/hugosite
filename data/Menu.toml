@@ -1,0 +1,22 @@
+[1]
+    Name = "about"
+    URL = "/about"
+
+[2]
+    Name = "contact"
+    URL = "/contact"
+
+[3]
+    Name = "posts"
+    Title = "Show list of posts"
+    URL = "/post"
+
+[4]
+    Name = "code"
+    Title = "Show list of projects"
+    URL = "/code"
+
+[5]
+    Name = "tags"
+    Title = "Show list of tags"
+    URL = "/tags"
