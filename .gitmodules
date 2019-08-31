@@ -1,3 +1,9 @@
 [submodule "themes/hyde-y"]
 	path = themes/hyde-y
 	url = https://github.com/enten/hyde-y.git
+[submodule "themes/hello-friend-ng"]
+	path = themes/hello-friend-ng
+	url = https://github.com/rhazdon/hugo-theme-hello-friend-ng.git
+[submodule "minimal"]
+	path = minimal
+	url = https://github.com/calintat/minimal.git

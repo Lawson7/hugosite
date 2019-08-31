@@ -1,17 +1,17 @@
-baseURL = "http://harrylawson.netlify.com/"
+baseURL = "http://example.com/"
 languageCode = "en-us"
-title = "Harry Lawson"
+title = "Minimal"
 theme = "minimal"
-disqusShortname = "harrylawon"
+disqusShortname = "username" # delete this to disable disqus comments
 googleAnalytics = ""
 
 [params]
-    author = "Harry Lawson"
-    description = "dev in the making."
-    githubUsername = "Lawson7"
-    accent = "#009975"
+    author = "Calin Tataru"
+    description = "Personal blog theme powered by Hugo"
+    githubUsername = "#"
+    accent = "red"
     showBorder = true
-    backgroundColor = "f6f6f6"
+    backgroundColor = "white"
     font = "Raleway" # should match the name on Google Fonts!
     highlight = true
     highlightStyle = "solarized-dark"
@@ -37,12 +37,12 @@ googleAnalytics = ""
 # The list of available icons can be found at http://fontawesome.io/icons/
 
 [[menu.icon]]
-    url = "harryglawson@gmail.com"
+    url = "mailto:me@example.com"
     name = "envelope-o"
     weight = 1
 
 [[menu.icon]]
-    url = "https://github.com/Lawson7/"
+    url = "https://github.com/username/"
     name = "github"
     weight = 2
 
@@ -52,11 +52,11 @@ googleAnalytics = ""
     weight = 3
 
 [[menu.icon]]
-    url = "https://www.linkedin.com/in/lawson.dev/"
-    name = "instagram"
+    url = "https://www.linkedin.com/in/username/"
+    name = "linkedin"
     weight = 4
 
 [[menu.icon]]
-    url = "https://stackoverflow.com/users/11561124/lawson7"
+    url = "https://www.stackoverflow.com/username/"
     name = "stack-overflow"
     weight = 5
