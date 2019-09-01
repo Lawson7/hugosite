@@ -16,6 +16,7 @@ googleAnalytics = ""
     highlight = true
     highlightStyle = "solarized-dark"
     highlightLanguages = ["go", "haskell", "kotlin", "scala", "swift"]
+    profilePic = "dp.png"
 
 [[menu.main]]
     url = "/"
