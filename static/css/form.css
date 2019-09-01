@@ -1,0 +1,44 @@
+
+
+form { max-width:450px; margin:1px auto; }
+
+.feedback-input {
+  color:black;
+  font-family: Helvetica, Arial, sans-serif;
+  font-weight:500;
+  font-size: 14px;
+  border-radius: 5px;
+  line-height: 1;
+  background-color: transparent;
+  border:1.5px solid #009975;
+  transition: all 0.3s;
+  padding: 10px;
+  margin-bottom: 10px;
+  width:100%;
+  box-sizing: border-box;
+  outline:0;
+}
+
+.feedback-input:focus { border:1px solid #009975; }
+
+textarea {
+  height: 150px;
+  line-height: 100%;
+}
+
+[type="submit"] {
+  font-family: 'Montserrat', Arial, Helvetica, sans-serif;
+  width: 50%;
+  background:#009975;
+  border-radius:5px;
+  border:0;
+  cursor:pointer;
+  color: white;
+  font-size:14px;
+  padding-top:10px;
+  padding-bottom:10px;
+  transition: all 0.3s;
+  margin-top:-4px;
+  font-weight:700;
+}
+[type="submit"]:hover { background:#009975; }

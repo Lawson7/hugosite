@@ -1,4 +1,4 @@
-baseURL = "https://harrylawson.netlify.com/"
+baseURL = "http://localhost:1313/"
 languageCode = "en-us"
 title = "Harry Lawson"
 theme = "minimal"
@@ -16,8 +16,7 @@ googleAnalytics = ""
     highlight = true
     highlightStyle = "solarized-dark"
     highlightLanguages = ["go", "haskell", "kotlin", "scala", "swift"]
-    profilePic = "dp.png"
-
+    
 [[menu.main]]
     url = "/"
     name = "Home"
@@ -32,6 +31,16 @@ googleAnalytics = ""
     url = "/project/"
     name = "Projects"
     weight = 3
+
+[[menu.main]]
+    url = "/about/"
+    name = "About"
+    weight = 4
+
+[[menu.main]]
+    url = "/contact/"
+    name = "Contact"
+    weight = 5
 
 # Social icons to be shown on the right-hand side of the navigation bar
 # The "name" field should match the name of the icon to be used

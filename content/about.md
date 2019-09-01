@@ -1,9 +1,9 @@
 ---
 type: "static"
 title: "About me"
+type: "about"
+layout: "about"
 ---
-
-<img src="/dp.png" alt="" width="150" style="border-radius:50%;float:left;margin:10px;"/>
 
 Welcome to my blog. I use this site to document my self taught dev journey. Feel free to connect!
 

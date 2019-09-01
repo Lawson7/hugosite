@@ -11,7 +11,7 @@ body {
 
 main {
     margin: auto;
-    padding: 25px;
+    padding: 10px;
     flex: 1 0 auto;
     max-width: 750px;
 }
@@ -30,9 +30,9 @@ main {
 
 /*home profile picture*/
 
-.profile {
+.homePhoto {
     border-radius: 50%;
-    width: 150px;
+    width: 130px;
 }
 
 .intro > h1 {
@@ -42,7 +42,7 @@ main {
 
 .intro > h2 {
     color: #757575;
-    font-size: 3.5vmin;
+    font-size: 3vmin;
 }
 
 .intro > .profile {
@@ -105,3 +105,4 @@ footer {
 img {
     max-width: 100%;
 }
+
