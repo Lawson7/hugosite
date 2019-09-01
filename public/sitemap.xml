@@ -3,143 +3,143 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.com/project/project1/</loc>
+    <loc>https://harrylawson.netlify.com/project/project1/</loc>
   </url>
   
   <url>
-    <loc>http://example.com/project/project2/</loc>
+    <loc>https://harrylawson.netlify.com/project/project2/</loc>
   </url>
   
   <url>
-    <loc>http://example.com/project/project3/</loc>
+    <loc>https://harrylawson.netlify.com/project/project3/</loc>
   </url>
   
   <url>
-    <loc>http://example.com/project/project4/</loc>
+    <loc>https://harrylawson.netlify.com/project/project4/</loc>
   </url>
   
   <url>
-    <loc>http://example.com/post/creating-a-new-theme/</loc>
+    <loc>https://harrylawson.netlify.com/post/creating-a-new-theme/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.com/tags/go/</loc>
+    <loc>https://harrylawson.netlify.com/tags/go/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.com/tags/golang/</loc>
+    <loc>https://harrylawson.netlify.com/tags/golang/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.com/</loc>
+    <loc>https://harrylawson.netlify.com/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.com/tags/hugo/</loc>
+    <loc>https://harrylawson.netlify.com/tags/hugo/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.com/post/</loc>
+    <loc>https://harrylawson.netlify.com/post/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.com/tags/</loc>
+    <loc>https://harrylawson.netlify.com/tags/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.com/tags/themes/</loc>
+    <loc>https://harrylawson.netlify.com/tags/themes/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.com/post/goisforlovers/</loc>
+    <loc>https://harrylawson.netlify.com/post/goisforlovers/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.com/tags/development/</loc>
+    <loc>https://harrylawson.netlify.com/tags/development/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.com/post/hugoisforlovers/</loc>
+    <loc>https://harrylawson.netlify.com/post/hugoisforlovers/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.com/tags/template/</loc>
+    <loc>https://harrylawson.netlify.com/tags/template/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.com/tags/jekyll/</loc>
+    <loc>https://harrylawson.netlify.com/tags/jekyll/</loc>
     <lastmod>2014-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.com/post/migrate-from-jekyll/</loc>
+    <loc>https://harrylawson.netlify.com/post/migrate-from-jekyll/</loc>
     <lastmod>2014-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.com/tags/static-site-generator/</loc>
+    <loc>https://harrylawson.netlify.com/tags/static-site-generator/</loc>
     <lastmod>2014-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.com/license/</loc>
+    <loc>https://harrylawson.netlify.com/license/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.com/about/</loc>
+    <loc>https://harrylawson.netlify.com/about/</loc>
   </url>
   
   <url>
-    <loc>http://example.com/tags/bootstrap/</loc>
+    <loc>https://harrylawson.netlify.com/tags/bootstrap/</loc>
   </url>
   
   <url>
-    <loc>http://example.com/categories/</loc>
+    <loc>https://harrylawson.netlify.com/categories/</loc>
   </url>
   
   <url>
-    <loc>http://example.com/contact/</loc>
+    <loc>https://harrylawson.netlify.com/contact/</loc>
   </url>
   
   <url>
-    <loc>http://example.com/tags/css/</loc>
+    <loc>https://harrylawson.netlify.com/tags/css/</loc>
   </url>
   
   <url>
-    <loc>http://example.com/tags/highlight-js/</loc>
+    <loc>https://harrylawson.netlify.com/tags/highlight-js/</loc>
   </url>
   
   <url>
-    <loc>http://example.com/tags/html/</loc>
+    <loc>https://harrylawson.netlify.com/tags/html/</loc>
   </url>
   
   <url>
-    <loc>http://example.com/tags/js/</loc>
+    <loc>https://harrylawson.netlify.com/tags/js/</loc>
   </url>
   
   <url>
-    <loc>http://example.com/project/</loc>
+    <loc>https://harrylawson.netlify.com/project/</loc>
   </url>
   
   <url>
-    <loc>http://example.com/tags/responsive/</loc>
+    <loc>https://harrylawson.netlify.com/tags/responsive/</loc>
   </url>
   
   <url>
-    <loc>http://example.com/tags/syntax-highlighting/</loc>
+    <loc>https://harrylawson.netlify.com/tags/syntax-highlighting/</loc>
   </url>
   
 </urlset>
